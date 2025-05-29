@@ -15,14 +15,15 @@
 ## Submissions Overview
 
 ### [Day 2]
-- **Topic:** [Topic of the day]
+- **Topic:**  AWS and Terraform Configuration And Installation
 - **Key Learnings:**
-  - [Brief bullet points of what you learned]
+  - Importance of IAC and it benefits 
+  - Why should i use Terrafom and not others
 - **Resources Created:**
   - [List of infrastructure resources created]
-  - [youtube Video](https://youtu.be/d6ncQJraj2s) 
+     - [youtube Video](https://youtu.be/d6ncQJraj2s) 
   - scheduled  blog  
-  - [Include cost estimation if applicable]
+      - [Linkedin Blog](https://www.linkedin.com/posts/felex-kuria-45292b9b_terraformsetup-aws-devops-activity-7333416771707625472-Ac4k?utm_source=share&utm_medium=member_desktop&rcm=ACoAABVRCr4Bhfxekwjp3Vhn2uTu3BtUtkcXlTY)
 - **File Structure:**
   ```
   Day2/
@@ -37,19 +38,9 @@
 - [x] `terraform plan` shows expected changes
 - [x] `terraform apply` completed without errors
 - [x] `terraform destroy` cleaned up all resources
-- **Blog Post:** [\[Link to your Vlog post\]](https://youtu.be/d6ncQJraj2s)
-- **Social Media:** [Link to your social media post with #AWSAIMLKenyaTerraformChallenge sechedudled ]
-
-### [Day 2]
-- **Topic:** [Topic of the day]
-- **Key Learnings:**
-  - [Brief bullet points of what you learned]
-- **Resources Created:**
-  - [List of infrastructure resources created]
-- **Blog Post:** [Link to your blog post]
-- **Social Media:** [Link to your social media post]
-
-[Repeat for each day in this week's submission]
+- **Vlog Post:** [\[Link to your Vlog post\]](https://youtu.be/d6ncQJraj2s)
+- **Blog Post** [I Lied on My Resume – Day 1 of Learning Terraform](https://www.linkedin.com/posts/felex-kuria-45292b9b_terraformsetup-aws-devops-activity-7333416771707625472-Ac4k?utm_source=share&utm_medium=member_desktop&rcm=ACoAABVRCr4Bhfxekwjp3Vhn2uTu3BtUtkcXlTY)
+- **Social Media:** [Link to your social media post with #AWSAIMLKenyaTerraformChallenge sechedudled ](https://www.linkedin.com/posts/felex-kuria-45292b9b_terraformsetup-aws-devops-activity-7333416771707625472-Ac4k?utm_source=share&utm_medium=member_desktop&rcm=ACoAABVRCr4Bhfxekwjp3Vhn2uTu3BtUtkcXlTY)
 
 ## Weekly Check-in Details
 - **Date:** [YYYY-MM-DD]
@@ -61,10 +52,9 @@
   - [ ] Updated progress tracking files
   - [ ] Reviewed other participants' PRs
   - [x] Ready to demo any interesting solutions
-## Code Quality Requirements
 - **Security:**
-  - [ ] No hardcoded credentials
-  - [ ] Using variables for sensitive data
+  - [x] No hardcoded credentials
+  - [x] Using variables for sensitive data
   - [ ] Implemented proper IAM roles/policies
   - [ ] Security groups properly configured
 - **Best Practices:**

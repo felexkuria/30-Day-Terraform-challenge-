@@ -1,23 +1,23 @@
-# Day 2 Submission
+# Day 3 Submission
 
 ## Personal Information
-- **Name:** Felex Kuria
-- **Date:** 30/05/2025
-- **GitHub Username:** felexkuria
+- **Name:** [Your Name]
+- **Date:** [Date of Submission]
+- **GitHub Username:** [Your GitHub Username]
 
 ## Task Completion
-- [x] Read Chapter 2 of "Terraform: Up & Running"
+- [ ] Read Chapter 2 of "Terraform: Up & Running"
 - [ ] Completed Required Hands-on Labs
-- [x] Deployed Single Server
+- [ ] Deployed Single Server
 - [ ] Deployed Web Server
-- [x] Created Infrastructure Diagrams
+- [ ] Created Infrastructure Diagrams
 
 ## Infrastructure Details
 
 ### Single Server Deployment
-- **Region:** us-east-1
-- **Instance Type:** t2.micro
-- **Key Features:** none
+- **Region:** [AWS Region]
+- **Instance Type:** [EC2 Instance Type]
+- **Key Features:** [List key configurations]
 
 ### Web Server Deployment
 - **Region:** [AWS Region]
@@ -26,7 +26,7 @@
 
 ## Infrastructure Diagrams
 Please place your infrastructure diagrams in the `architecture` folder with the following files:
-- `single-server.png` - ![image](/Day2/Submissions/felexkuria/architecture/terraform%203%20&4.png)
+- `single-server.png` - Diagram for the single server deployment
 - `web-server.png` - Diagram for the web server deployment
 
 ## Blog Post
@@ -34,8 +34,8 @@ Please place your infrastructure diagrams in the `architecture` folder with the 
 - **Link:** [URL to your blog post]
 
 ## Social Media
-- **Platform:** [Youtube](https://youtu.be/fJEsGCXFNuU)
-- **Post Link:** [linkedin Platform](https://www.linkedin.com/posts/felex-kuria-45292b9b_30daytfchallenge-hug-hashicorp-activity-7333984403410305026-eSxB?utm_source=share&utm_medium=member_desktop&rcm=ACoAABVRCr4Bhfxekwjp3Vhn2uTu3BtUtkcXlTY)
+- **Platform:** [Twitter/LinkedIn]
+- **Post Link:** [URL to your social media post]
 
 ## Notes and Observations
 [Share your key learnings, challenges faced, and how you overcame them]
@@ -44,17 +44,17 @@ Please place your infrastructure diagrams in the `architecture` folder with the 
 [List any additional resources you found helpful]
 
 ## Time Spent
-- Reading: [2 hours]
-- Infrastructure Deployment: [0.2 hours]
-- Diagram Creation: [0.2 hours]
+- Reading: [X hours]
+- Infrastructure Deployment: [X hours]
+- Diagram Creation: [X hours]
 - Blog Writing: [X hours]
 - Total: [X hours]
 
 ## Repository Structure
 ```
-Day2/
+Day3/
 └── Submissions/
-    └── felexkuria/
+    └── [Your GitHub Username]/
         ├── architecture/
         │   ├── single-server.png
         │   └── web-server.png

@@ -76,11 +76,16 @@ resource "aws_instance" "web_server" {
 
   user_data = <<-EOF
               #!/bin/bash
+              exec > /var/log/user-data.log 2>&1
+              set -x
+              REGION=$(curl -s http://169.254.169.254/latest/meta-data/placement/region)
+              AZ=$(curl -s http://169.254.169.254/latest/meta-data/placement/availability-zone)
+              AMI_ID=$(curl -s http://169.254.169.254/latest/meta-data/ami-id)
               yum update -y
               yum install -y httpd
               systemctl start httpd
               systemctl enable httpd
-              echo "<html><body><h1>Hello from AWS EC2</h1></body></html>" > /var/www/html/index.html
+              echo "<html><body><h1>Hello from AWS EC2</h1><h2>Region: $REGION</h2><h3>Availability Zone: $AZ</h3><h4>AMI ID: $AMI_ID</h4></body></html>" > /var/www/html/index.html
               chmod 644 /var/www/html/index.html
               EOF
 }

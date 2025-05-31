@@ -7,9 +7,9 @@
 
 ## Task Completion
 - [x] Read Chapter 2 of "Terraform: Up & Running"
-- [ ] Completed Required Hands-on Labs
+- [x] Completed Required Hands-on Labs
 - [x] Deployed Single Server
-- [ ] Deployed Web Server
+- [x] Deployed Web Server
 - [x] Created Infrastructure Diagrams
 
 ## Infrastructure Details

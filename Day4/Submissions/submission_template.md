@@ -44,7 +44,7 @@ Please place your infrastructure diagrams in the `architecture` folder with the 
 [List any additional resources you found helpful]
 
 ## Time Spent
-- Reading: [X hours]
+- Reading: [3 hours]
 - Infrastructure Deployment: [X hours]
 - Diagram Creation: [X hours]
 - Blog Writing: [X hours]

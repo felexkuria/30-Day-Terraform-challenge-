@@ -1,9 +1,10 @@
 # Day 3 Submission
 
+
 ## Personal Information
-- **Name:** [Your Name]
-- **Date:** [Date of Submission]
-- **GitHub Username:** [Your GitHub Username]
+- **Name:** Felex Kuria
+- **Date:** 31/05/2025
+- **GitHub Username:** felexkuria
 
 ## Task Completion
 - [ ] Read Chapter 2 of "Terraform: Up & Running"
@@ -15,19 +16,10 @@
 ## Infrastructure Details
 
 ### Single Server Deployment
-- **Region:** [AWS Region]
-- **Instance Type:** [EC2 Instance Type]
+- **Region:** us-west-1
+- **Instance Type:** t2.micro
 - **Key Features:** [List key configurations]
 
-### Web Server Deployment
-- **Region:** [AWS Region]
-- **Instance Type:** [EC2 Instance Type]
-- **Key Features:** [List key configurations]
-
-## Infrastructure Diagrams
-Please place your infrastructure diagrams in the `architecture` folder with the following files:
-- `single-server.png` - Diagram for the single server deployment
-- `web-server.png` - Diagram for the web server deployment
 
 ## Blog Post
 - **Title:** [Your Blog Post Title]

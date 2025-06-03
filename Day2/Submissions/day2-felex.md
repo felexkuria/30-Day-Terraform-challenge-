@@ -2,7 +2,7 @@
 
 ## Personal Information
 - **Name:** Felex Kuria
-- **Date:** 30/05/2025
+- **Date:** 31/05/2025
 - **GitHub Username:** felexkuria
 
 ## Task Completion
@@ -11,6 +11,7 @@
 - [x] Deployed Single Server
 - [x] Deployed Web Server
 - [x] Created Infrastructure Diagrams
+
 
 ## Infrastructure Details
 
@@ -27,11 +28,12 @@
 ## Infrastructure Diagrams
 Please place your infrastructure diagrams in the `architecture` folder with the following files:
 - `single-server.png` - ![image](/Day2/Submissions/felexkuria/architecture/terraform%203%20&4.png)
-- `web-server.png` - Diagram for the web server deployment
+- `web-server.png` - ![Diagram for the web server deployment](/Day2/Submissions/felexkuria/architecture/Screenshot%202025-05-30%20at%2020.55.50.png)
 
 ## Blog Post
-- **Title:** [Your Blog Post Title]
-- **Link:** [URL to your blog post]
+- **Title:** Day 2 with Terraform on AWS — Launching a Simple Website with EC2, VPC, and User Data
+- **Link:** [\[URL to my blog post\]](https://medium.com/@engineerfelex/day-2-with-terraform-on-aws-launching-a-simple-website-with-ec2-vpc-and-user-data-cb72e458971d)
+- **Vlog Link** [Link to Video Log](https://youtu.be/FmKez0HdIW8)
 
 ## Social Media
 - **Platform:** [Youtube](https://youtu.be/fJEsGCXFNuU)
@@ -47,8 +49,8 @@ Please place your infrastructure diagrams in the `architecture` folder with the 
 - Reading: [2 hours]
 - Infrastructure Deployment: [0.2 hours]
 - Diagram Creation: [0.2 hours]
-- Blog Writing: [X hours]
-- Total: [X hours]
+- Blog Writing: [0.3 hours]
+- Total: [ 3.3 hours]
 
 ## Repository Structure
 ```

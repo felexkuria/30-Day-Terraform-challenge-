@@ -36,7 +36,7 @@
 [List any additional resources you found helpful]
 
 ## Time Spent
-- Reading: [X hours]
+- Reading: [3 hours]
 - Infrastructure Deployment: [X hours]
 - Diagram Creation: [X hours]
 - Blog Writing: [X hours]
@@ -46,16 +46,8 @@
 ```
 Day3/
 └── Submissions/
-    └── [Your GitHub Username]/
-        ├── architecture/
-        │   ├── single-server.png
-        │   └── web-server.png
-        ├── terraform/
-        │   ├── single-server/
-        │   │   └── main.tf
-        │   └── web-server/
-        │       └── main.tf
-        └── submission.md
+    └── felexkuria/
+        ├──main.tf
 ``` 
 
 

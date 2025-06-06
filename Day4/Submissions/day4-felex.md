@@ -9,6 +9,8 @@
 - [x] Read Chapter 2 of "Terraform: Up & Running"
 - [x] Completed Required Hands-on Labs
 - [x] Deployed Single Server
+- [x] Deployed S3 bucket
+
 
 
 

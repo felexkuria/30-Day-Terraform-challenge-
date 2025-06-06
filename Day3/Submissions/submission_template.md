@@ -54,7 +54,7 @@ Please place your infrastructure diagrams in the `architecture` folder with the 
 ```
 Day3/
 └── Submissions/
-    └── [Your GitHub Username]/
+    └── felexkuria/
         ├── architecture/
         │   ├── single-server.png
         │   └── web-server.png

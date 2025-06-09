@@ -26,13 +26,12 @@
       - [Linkedin Blog](https://www.linkedin.com/posts/felex-kuria-45292b9b_terraformsetup-aws-devops-activity-7333416771707625472-Ac4k?utm_source=share&utm_medium=member_desktop&rcm=ACoAABVRCr4Bhfxekwjp3Vhn2uTu3BtUtkcXlTY)
 - **File Structure:**
   ```
-  Day2/
-  ├── main.tf
-  ├── variables.tf
-  ├── outputs.tf
-  ├── terraform.tfvars
-  └── README.md
-  ```
+  Day1/Submissions/felexkuria/
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── terraform.tfvars
+└── README.md  ```
 - **Testing Completed:**
 - [x] `terraform init` successful
 - [x] `terraform plan` shows expected changes

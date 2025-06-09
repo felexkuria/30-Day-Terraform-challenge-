@@ -31,8 +31,8 @@
 ├── variables.tf
 ├── outputs.tf
 ├── terraform.tfvars
-└── README.md  ```
-- **Testing Completed:**
+└── README.md  
+  ```
 - [x] `terraform init` successful
 - [x] `terraform plan` shows expected changes
 - [x] `terraform apply` completed without errors

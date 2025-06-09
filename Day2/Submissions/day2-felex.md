@@ -21,8 +21,8 @@
 - **Key Features:** none
 
 ### Web Server Deployment
-- **Region:** [AWS Region]
-- **Instance Type:** [EC2 Instance Type]
+- **Region:** us-east-1
+- **Instance Type:** t2.micro
 - **Key Features:** [List key configurations]
 
 ## Infrastructure Diagrams
